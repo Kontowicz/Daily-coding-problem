@@ -3,9 +3,9 @@
 def is_unival(root):
     if root == None:
         return True
-    if root.left != null and root.left.val != root.val:
+    if root.left != None and root.left.val != root.val:
         return False
-    if root.right != null and root.right.val != root.val:
+    if root.right != None and root.right.val != root.val:
         return False
     if is_unival(root.left) and is_unival(root.right):
         return True
