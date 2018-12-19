@@ -7,3 +7,4 @@
 | 5 | cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. | [Day 5](../master.day_05.py) |
 | 7 | Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded. | [Day 7](../master.day_07.py) |
 | 8 | A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value. | [Day 8](../master.day_08.py) |
+| 9 | Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative. | [Day 9](../master.day_09.py) |
