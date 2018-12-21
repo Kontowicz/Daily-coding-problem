@@ -9,3 +9,4 @@
 | 8 | A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value. | [Day 8](../master/day_08.py) |
 | 9 | Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative. | [Day 9](../master/day_09.py) |
 | 10 | Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds. | [Day 10](../master/day_10.py) |
+| 11 | Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix. | [Day 11](../master/day_11.py) |
