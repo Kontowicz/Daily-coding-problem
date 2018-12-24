@@ -10,4 +10,5 @@
 | 9 | Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative. | [Day 9](../master/day_09.py) |
 | 10 | Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds. | [Day 10](../master/day_10.py) |
 | 11 | Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix. | [Day 11](../master/day_11.py) |
-| 11 | There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. | [Day 12](../master/day_12.py) |
+| 12 | There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. | [Day 12](../master/day_12.py) |
+| 13 | Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters. | [Day 13](../master/day_13.py) |
