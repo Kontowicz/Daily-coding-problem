@@ -12,4 +12,5 @@
 | 11 | Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix. | [Day 11](../master/day_11.py) |
 | 12 | There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. | [Day 12](../master/day_12.py) |
 | 13 | Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters. | [Day 13](../master/day_13.py) |
+| 14 | The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method. | [Day 14](../master/day_14.py) |
 
