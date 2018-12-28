@@ -15,3 +15,4 @@
 | 14 | The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method. | [Day 14](../master/day_14.py) |
 | 15 | Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability. | [Day 15](../master/day_15.py) |
 | 16 | You run an e-commerce website and want to record the last N order ids in a log.  | [Day 16](../master/day_16.py) |
+| 17 | Suppose we represent our file system by a string in the following manner.  | [Day 17](../master/day_17.py) |
