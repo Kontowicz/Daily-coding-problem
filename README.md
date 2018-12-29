@@ -16,3 +16,4 @@
 | 15 | Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability. | [Day 15](../master/day_15.py) |
 | 16 | You run an e-commerce website and want to record the last N order ids in a log.  | [Day 16](../master/day_16.py) |
 | 17 | Suppose we represent our file system by a string in the following manner.  | [Day 17](../master/day_17.py) |
+| 18 | Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.  | [Day 18](../master/day_18.py) |
