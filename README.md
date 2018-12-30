@@ -17,3 +17,4 @@
 | 16 | You run an e-commerce website and want to record the last N order ids in a log.  | [Day 16](../master/day_16.py) |
 | 17 | Suppose we represent our file system by a string in the following manner.  | [Day 17](../master/day_17.py) |
 | 18 | Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.  | [Day 18](../master/day_18.py) |
+| 19 | Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal. | [Day 19](../master/day_19.py) |
