@@ -20,3 +20,4 @@
 | 19 | Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal. | [Day 19](../master/day_19.py) |
 | 20 | Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical. | [Day 20](../master/day_20.py) |
 | 21 | Given an array of time intervals (start, end) for classroom lectures (possibly overlapping). | [Day 21](../master/day_21.py) |
+| 22 | Given a dictionary of words and a string made up of those words (no spaces), return the original sentence in a list. | [Day 22](../master/day_22.py) |
