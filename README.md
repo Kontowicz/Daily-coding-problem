@@ -23,6 +23,7 @@
 | 22 | Given a dictionary of words and a string made up of those words (no spaces), return the original sentence in a list. | [Day 22](../master/day_22.py) |
 | 23 | You are given an M by N matrix consisting of booleans that represents a board. Each True boolean represents a wall. Each False boolean represents a tile you can walk on. | [Day 23](../master/day_23.py) |
 | 24 | Implement locking in a binary tree. A binary tree node can be locked or unlocked only if all of its descendants or ancestors are not locked. | [Day 24](../master/day_24.py) |
+| 25 | Implement regular expression matching with the following special characters: | [Day 25](../master/day_25.py) |
 
 
 
