@@ -25,6 +25,7 @@
 | 24 | Implement locking in a binary tree. A binary tree node can be locked or unlocked only if all of its descendants or ancestors are not locked. | [Day 24](../master/day_24.py) |
 | 25 | Implement regular expression matching with the following special characters: | [Day 25](../master/day_25.py) |
 | 26 | Given a singly linked list and an integer k, remove the kth last element from the list. k is guaranteed to be smaller than the length of the list. | [Day 26](../master/day_26.py) |
+| 27 | Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed). | [Day 26](../master/day_27.py) |
 
 
 
