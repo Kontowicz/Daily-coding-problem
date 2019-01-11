@@ -27,3 +27,4 @@
 | 26 | Given a singly linked list and an integer k, remove the kth last element from the list. k is guaranteed to be smaller than the length of the list. | [Day 26](../master/day_26.py) |
 | 27 | Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed). | [Day 27](../master/day_27.py) |
 | 28 | Write an algorithm to justify text. Given a sequence of words and an integer line length k, return a list of strings which represents each line, fully justified. | [Day 28](../master/day_28.py) |
+| 29 | Run-length encoding is a fast and simple method of encoding strings. | [Day 29](../master/day_29.py) |
