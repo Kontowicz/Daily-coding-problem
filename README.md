@@ -28,4 +28,5 @@
 | 27 | Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed). | [Day 27](../master/day_27.py) |
 | 28 | Write an algorithm to justify text. Given a sequence of words and an integer line length k, return a list of strings which represents each line, fully justified. | [Day 28](../master/day_28.py) |
 | 29 | Run-length encoding is a fast and simple method of encoding strings. | [Day 29](../master/day_29.py) |
-| 30 | Compute how many units of water remain trapped on the map | [Day 30](../master/day_30.py) |
+| 30 | Compute how many units of water remain trapped on the map. | [Day 30](../master/day_30.py) |
+| 31 | The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions. | [Day 31](../master/day_31.py) |
