@@ -32,3 +32,4 @@
 | 31 | The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions. | [Day 31](../master/day_31.py) |
 | 32 |  |  |
 | 33 | Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list so far on each new element. | [Day 33](../master/day_33.py) |
+| 34 | Given a string, find how much letters is need to insert to make this word palindrome. | [Day 34](../master/day_34.py) |
