@@ -35,3 +35,6 @@
 | 34 | Given a string, find how much letters is need to insert to make this word palindrome. | [Day 34](../master/day_34.py) |
 | 36 | Given the root to a binary search tree, find the second largest node in the tree. | [Day 36](../master/day_36.py) |
 | 37 | The power set of a set is the set of all its subsets. Write a function that, given a set, generates its power set | [Day 37](../master/day_37.py) |
+| 38 |||
+| 39 |||
+| 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
