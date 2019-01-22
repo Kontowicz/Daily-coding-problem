@@ -38,3 +38,4 @@
 | 38 |||
 | 39 |||
 | 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
+| 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. (debug need) | [Day 41](../master/day_41.py) |
