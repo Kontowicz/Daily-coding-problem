@@ -33,6 +33,7 @@
 | 32 |  |  |
 | 33 | Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list so far on each new element. | [Day 33](../master/day_33.py) |
 | 34 | Given a string, find how much letters is need to insert to make this word palindrome. | [Day 34](../master/day_34.py) |
+| 35 | Given an array of strictly the characters 'R', 'G', and 'B', segregate the values of the array so that all the Rs come first, the Gs come second, and the Bs come last. |[Day 35](../master/day_35.py) ||
 | 36 | Given the root to a binary search tree, find the second largest node in the tree. | [Day 36](../master/day_36.py) |
 | 37 | The power set of a set is the set of all its subsets. Write a function that, given a set, generates its power set | [Day 37](../master/day_37.py) |
 | 38 |||
