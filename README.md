@@ -30,7 +30,6 @@
 | 29 | Run-length encoding is a fast and simple method of encoding strings. | [Day 29](../master/day_29.py) |
 | 30 | Compute how many units of water remain trapped on the map. | [Day 30](../master/day_30.py) |
 | 31 | The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions. | [Day 31](../master/day_31.py) |
-| 32 |  |  |
 | 33 | Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list so far on each new element. | [Day 33](../master/day_33.py) |
 | 34 | Given a string, find how much letters is need to insert to make this word palindrome. | [Day 34](../master/day_34.py) |
 | 35 | Given an array of strictly the characters 'R', 'G', and 'B', segregate the values of the array so that all the Rs come first, the Gs come second, and the Bs come last. |[Day 35](../master/day_35.py) ||
@@ -39,4 +38,5 @@
 | 38 |||
 | 39 |||
 | 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
-| 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. (debug need) | [Day 41](../master/day_41.py) |
+| 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. | [Day 41](../master/day_41.py) |
+| 43 | Implement a stack that has the following methods. | [Day 43](../master/day_43.py) |
