@@ -40,3 +40,4 @@
 | 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
 | 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. | [Day 41](../master/day_41.py) |
 | 43 | Implement a stack that has the following methods. | [Day 43](../master/day_43.py) |
+| 44 | We can determine how "out of order" an array A is by counting the number of inversions it has. | [Day 44](../master/day_44.py) |
