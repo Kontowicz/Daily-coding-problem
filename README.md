@@ -42,3 +42,4 @@
 | 43 | Implement a stack that has the following methods. | [Day 43](../master/day_43.py) |
 | 44 | We can determine how "out of order" an array A is by counting the number of inversions it has. | [Day 44](../master/day_44.py) |
 | 45 | Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability. | [Day 45](../master/day_45.py) |
+| 46 | Given a string, find the longest palindromic contiguous substring. | [Day 46](../master/day_46.py) |
