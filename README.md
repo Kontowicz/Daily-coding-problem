@@ -45,3 +45,4 @@
 | 46 | Given a string, find the longest palindromic contiguous substring. | [Day 46](../master/day_46.py) |
 | 47 | Given a array of numbers representing the stock prices of a company in chronological order. | [Day 47](../master/day_47.py) |
 | 48 | Given pre-order and in-order traversals of a binary tree, write a function to reconstruct the tree. | [Day 48](../master/day_48.py) |
+| 49 | Given an array of numbers, find the maximum sum of any contiguous subarray of the array. | [Day 49](../master/day_49.py) |
