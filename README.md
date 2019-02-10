@@ -47,4 +47,6 @@
 | 48 | Given pre-order and in-order traversals of a binary tree, write a function to reconstruct the tree. | [Day 48](../master/day_48.py) |
 | 49 | Given an array of numbers, find the maximum sum of any contiguous subarray of the array. | [Day 49](../master/day_49.py) |
 | 50 | Suppose an arithmetic expression is given as a binary tree. | [Day 50](../master/day_50.py) |
+| 51 | write a function that shuffles a deck of cards represented as an array using only swaps. | [Day 51](../master/day_51.py) |
 | 52 | Implement an LRU (Least Recently Used) cache. | [Day 50](../master/day_52.py) |
+
