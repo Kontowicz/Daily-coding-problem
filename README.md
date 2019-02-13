@@ -51,4 +51,5 @@
 | 52 | Implement an LRU (Least Recently Used) cache. | [Day 52](../master/day_52.py) |
 | 57 | Given a string s and an integer k, break up the string into multiple texts such that each text has a length of k or less. | [Day 57](../master/day_57.py) |
 | 62 | Given N and M, write a function to count the number of ways of starting at the top-left corner and getting to the bottom-right corner. | [Day 62](../master/day_62.py) |
+| 63 | Given a 2D matrix of characters and a target word, write a function that returns whether the word can be found in the matrix | [Day 63](../master/day_63.py) |
 
