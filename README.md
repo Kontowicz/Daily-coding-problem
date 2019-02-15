@@ -53,4 +53,5 @@
 | 62 | Given N and M, write a function to count the number of ways of starting at the top-left corner and getting to the bottom-right corner. | [Day 62](../master/day_62.py) |
 | 63 | Given a 2D matrix of characters and a target word, write a function that returns whether the word can be found in the matrix | [Day 63](../master/day_63.py) |
 | 65 | Given a N by M matrix of numbers, print out the matrix in a clockwise spiral. | [Day 65](../master/day_65.py) |
+| 66 | Assume you have access to a function toss_biased() which returns 0 or 1 with a probability. | [Day 66](../master/day_66.py) |
 
