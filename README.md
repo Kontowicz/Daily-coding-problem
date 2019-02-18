@@ -56,4 +56,5 @@
 | 63 | Given a 2D matrix of characters and a target word, write a function that returns whether the word can be found in the matrix | [Day 63](../master/day_63.py) |
 | 65 | Given a N by M matrix of numbers, print out the matrix in a clockwise spiral. | [Day 65](../master/day_65.py) |
 | 66 | Assume you have access to a function toss_biased() which returns 0 or 1 with a probability. | [Day 66](../master/day_66.py) |
+| 69 | For example, if the list is [-10, -10, 5, 2], we should return 500, since that's -10 * -10 * 5. | [Day 69](../master/day_69.py) |
 
