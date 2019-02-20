@@ -58,4 +58,5 @@
 | 66 | Assume you have access to a function toss_biased() which returns 0 or 1 with a probability. | [Day 66](../master/day_66.py) |
 | 69 | For example, if the list is [-10, -10, 5, 2], we should return 500, since that's -10 * -10 * 5. | [Day 69](../master/day_69.py) |
 | 70 | A number is considered perfect if its digits sum up to exactly 10. | [Day 70](../master/day_70.py) |
+| 71 | Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability. | [Day 71](../master/day_71.py) |
 
