@@ -59,4 +59,5 @@
 | 69 | For example, if the list is [-10, -10, 5, 2], we should return 500, since that's -10 * -10 * 5. | [Day 69](../master/day_69.py) |
 | 70 | A number is considered perfect if its digits sum up to exactly 10. | [Day 70](../master/day_70.py) |
 | 71 | Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability. | [Day 71](../master/day_71.py) |
+| 73 | Given the head of a singly linked list, reverse it in-place. | [Day 71](../master/day_73.py) |
 
