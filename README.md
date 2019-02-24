@@ -36,7 +36,7 @@
 | 35 | Given an array of strictly the characters 'R', 'G', and 'B', segregate the values of the array so that all the Rs come first, the Gs come second, and the Bs come last. |[Day 35](../master/day_35.py) ||
 | 36 | Given the root to a binary search tree, find the second largest node in the tree. | [Day 36](../master/day_36.py) |
 | 37 | The power set of a set is the set of all its subsets. Write a function that, given a set, generates its power set | [Day 37](../master/day_37.py) |
-| 38 |||
+| 38 | N queens problem. | [Day 38](../master/day_38.py) |
 | 39 |||
 | 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
 | 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. | [Day 41](../master/day_41.py) |
