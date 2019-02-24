@@ -40,6 +40,7 @@
 | 39 |||
 | 40 | Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer. | [Day 40](../master/day_40.py) |
 | 41 | Given an unordered list of flights taken by someone, each represented as (origin, destination) pairs. | [Day 41](../master/day_41.py) |
+| 42 | Given a list of integers S and a target number k, write a function that returns a subset of S that adds up to k. | [Day 42](../master/day_42.py) |
 | 43 | Implement a stack that has the following methods. | [Day 43](../master/day_43.py) |
 | 44 | We can determine how "out of order" an array A is by counting the number of inversions it has. | [Day 44](../master/day_44.py) |
 | 45 | Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability. | [Day 45](../master/day_45.py) |
