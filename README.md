@@ -62,4 +62,5 @@
 | 70 | A number is considered perfect if its digits sum up to exactly 10. | [Day 70](../master/day_70.py) |
 | 71 | Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability. | [Day 71](../master/day_71.py) |
 | 73 | Given the head of a singly linked list, reverse it in-place. | [Day 73](../master/day_73.py) |
-| 74 |  Suppose you have a multiplication table that is N by N. That is, a 2D array where the value at... | [Day 74](../master/day_74.py) |
+| 74 | Suppose you have a multiplication table that is N by N. That is, a 2D array where the value at... | [Day 74](../master/day_74.py) |
+| 75 | Given an array of numbers, find the length of the longest increasing subsequence in the array. | [Day 75](../master/day_75.py) |
