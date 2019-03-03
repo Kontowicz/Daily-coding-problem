@@ -68,3 +68,4 @@
 | 77 | Given a list of possibly overlapping intervals, return a new list of intervals where all overlapping intervals have been merged. | [Day 77](../master/day_77.py) |
 | 78 | Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list. | [Day 78](../master/day_78.py) |
 | 79 | Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element. | [Day 79](../master/day_79.py) |
+| 80 | Given the root of a binary tree, return a deepest node. | [Day 80](../master/day_80.py) |
