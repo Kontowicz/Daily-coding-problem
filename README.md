@@ -69,3 +69,4 @@
 | 78 | Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list. | [Day 78](../master/day_78.py) |
 | 79 | Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element. | [Day 79](../master/day_79.py) |
 | 80 | Given the root of a binary tree, return a deepest node. | [Day 80](../master/day_80.py) |
+| 81 | Given a mapping of digits to letters (as in a phone number), and a digit string, return all possible letters the number could represent. | [Day 81](../master/day_81.py) |
