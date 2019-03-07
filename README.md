@@ -71,4 +71,5 @@
 | 80 | Given the root of a binary tree, return a deepest node. | [Day 80](../master/day_80.py) |
 | 81 | Given a mapping of digits to letters (as in a phone number), and a digit string, return all possible letters the number could represent. | [Day 81](../master/day_81.py) |
 | 82 | Using a read7() method that returns 7 characters from a file, implement readN(n) which reads n characters. | [Day 82](../master/day_82.py) |
-| 83 | Invert a binary tree. | [Day 83(../master/day_83.py) |
+| 83 | Invert a binary tree. | [Day 83](../master/day_83.py) |
+| 84 | Given a matrix of 1s and 0s, return the number of "islands" in the matrix. | [Day 84](../master/day_84.py) |
