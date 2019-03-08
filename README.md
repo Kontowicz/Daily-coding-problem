@@ -73,3 +73,4 @@
 | 82 | Using a read7() method that returns 7 characters from a file, implement readN(n) which reads n characters. | [Day 82](../master/day_82.py) |
 | 83 | Invert a binary tree. | [Day 83](../master/day_83.py) |
 | 84 | Given a matrix of 1s and 0s, return the number of "islands" in the matrix. | [Day 84](../master/day_84.py) |
+| 85 | Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. | [Day 85](../master/day_85.py) |
