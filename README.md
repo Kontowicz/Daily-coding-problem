@@ -75,3 +75,5 @@
 | 84 | Given a matrix of 1s and 0s, return the number of "islands" in the matrix. | [Day 84](../master/day_84.py) |
 | 85 | Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. | [Day 85](../master/day_85.py) |
 | 86 | Given a string of parentheses, write a function to compute the minimum number of  parentheses to be removed to make the string valid. | [Day 86](../master/day_86.py) |
+| 87 |  |  |
+| 88 | Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder. | [Day 88](../master/day_88.py) |
