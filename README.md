@@ -77,3 +77,4 @@
 | 86 | Given a string of parentheses, write a function to compute the minimum number of  parentheses to be removed to make the string valid. | [Day 86](../master/day_86.py) |
 | 87 |  |  |
 | 88 | Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder. | [Day 88](../master/day_88.py) |
+| 89 | Determine whether a tree is a valid binary search tree. | [Day 89](../master/day_89.py) |
