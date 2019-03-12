@@ -78,3 +78,4 @@
 | 87 |  |  |
 | 88 | Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder. | [Day 88](../master/day_88.py) |
 | 89 | Determine whether a tree is a valid binary search tree. | [Day 89](../master/day_89.py) |
+| 90 | Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform). | [Day 89](../master/day_90.py) |
