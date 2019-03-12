@@ -9,3 +9,14 @@ def solution(n, l):
         return solution(n, l)
 
     return rand
+
+def solution_01(n, l):
+    list = []
+    for i in range(0, n):
+        if i not in l:
+            list.append(i)
+
+    return list[random.randint(0, len(list) - 1)]
+
+
+print(solution_01(10, [1,2,4,5]))
