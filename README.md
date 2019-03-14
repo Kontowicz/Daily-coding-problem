@@ -80,3 +80,4 @@
 | 89 | Determine whether a tree is a valid binary search tree. | [Day 89](../master/day_89.py) |
 | 90 | Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform). | [Day 90](../master/day_90.py) |
 | 91 | What does the below code snippet print out? How can we fix the anonymous functions to behave as we'd expect? | [Day 91](../master/day_91.py) |
+| 92 | We're given a hashmap associating each courseId key with a list of courseIds values, which represents that the prerequisites of courseId are courseIds. | [Day 92](../master/day_92.py) |
