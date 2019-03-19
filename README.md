@@ -82,4 +82,5 @@
 | 91 | What does the below code snippet print out? How can we fix the anonymous functions to behave as we'd expect? | [Day 91](../master/day_91.py) |
 | 92 | We're given a hashmap associating each courseId key with a list of courseIds values, which represents that the prerequisites of courseId are courseIds. | [Day 92](../master/day_92.py) |
 | 93 | Given a tree, find the largest tree/subtree that is a BST. | [Day 93](../master/day_93.py) |
+| 94 | Given a binary tree of integers, find the maximum path sum between two nodes.  | [Day 94](../master/day_94.py) |
 | 96 | Given a number in the form of a list of digits, return all possible permutations. | [Day 96](../master/day_96.py) |
