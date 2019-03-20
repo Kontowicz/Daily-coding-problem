@@ -84,3 +84,4 @@
 | 93 | Given a tree, find the largest tree/subtree that is a BST. | [Day 93](../master/day_93.py) |
 | 94 | Given a binary tree of integers, find the maximum path sum between two nodes.  | [Day 94](../master/day_94.py) |
 | 96 | Given a number in the form of a list of digits, return all possible permutations. | [Day 96](../master/day_96.py) |
+| 100 | You are in an infinite 2D grid where you can move in any of the 8 directions: | [Day 100](../master/day_100.py) |
