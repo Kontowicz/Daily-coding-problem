@@ -84,5 +84,6 @@
 | 93 | Given a tree, find the largest tree/subtree that is a BST. | [Day 93](../master/day_093.py) |
 | 94 | Given a binary tree of integers, find the maximum path sum between two nodes.  | [Day 94](../master/day_094.py) |
 | 96 | Given a number in the form of a list of digits, return all possible permutations. | [Day 96](../master/day_096.py) |
+| 99 | Given an unsorted array of integers, find the length of the longest consecutive elements sequence. | [Day 99](../master/day_099.py) |
 | 100 | You are in an infinite 2D grid where you can move in any of the 8 directions: | [Day 100](../master/day_100.py) |
 | 101 | Given an even number (greater than 2), return two prime numbers whose sum will be equal to the given number. | [Day 101](../master/day_101.py) |
