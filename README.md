@@ -87,3 +87,4 @@
 | 99 | Given an unsorted array of integers, find the length of the longest consecutive elements sequence. | [Day 99](../master/day_099.py) |
 | 100 | You are in an infinite 2D grid where you can move in any of the 8 directions: | [Day 100](../master/day_100.py) |
 | 101 | Given an even number (greater than 2), return two prime numbers whose sum will be equal to the given number. | [Day 101](../master/day_101.py) |
+| 102 | Given a list of integers and a number K, return which contiguous elements of the list sum to K. | [Day 102](../master/day_102.py) |
