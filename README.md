@@ -89,3 +89,4 @@
 | 101 | Given an even number (greater than 2), return two prime numbers whose sum will be equal to the given number. | [Day 101](../master/day_101.py) |
 | 102 | Given a list of integers and a number K, return which contiguous elements of the list sum to K. | [Day 102](../master/day_102.py) |
 | 103 | Given a string and a set of characters, return the shortest substring containing all the characters in the set. | [Day 103](../master/day_103.py) |
+| 104 | Determine whether a doubly linked list is a palindrome. | [Day 104](../master/day_104.py) |
