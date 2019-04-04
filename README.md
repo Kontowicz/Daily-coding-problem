@@ -94,3 +94,4 @@
 | 107 | Print the nodes in bnary tree lavel-wise. | [Day 107](../master/day_107.py) |
 | 108 | Given two strings A and B, return whether or not A can be shifted some number of times to get B. | [Day 108](../master/day_108.py) |
 | 109 | Given an unsigned 8-bit integer, swap its even and odd bits.  | [Day 109](../master/day_109.py) |
+| 110 | Given a binary tree, return all paths from the root to leaves. | [Day 110](../master/day_110.py) |
