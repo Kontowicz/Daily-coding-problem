@@ -95,3 +95,4 @@
 | 108 | Given two strings A and B, return whether or not A can be shifted some number of times to get B. | [Day 108](../master/day_108.py) |
 | 109 | Given an unsigned 8-bit integer, swap its even and odd bits.  | [Day 109](../master/day_109.py) |
 | 110 | Given a binary tree, return all paths from the root to leaves. | [Day 110](../master/day_110.py) |
+| 111 | Given a word W and a string S, find all starting indices in S which are anagrams of W. | [Day 111](../master/day_111.py) |
