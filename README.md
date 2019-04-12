@@ -102,3 +102,4 @@
 | 115 | Given two non-empty binary trees s and t, check whether tree t has exactly the same structure and node values with a subtree of s. | [Day 115](../master/day_115.py) |
 | 116 | Generate a finite, but an arbitrarily large binary tree quickly in O(1). | [Day 116](../master/day_116.py) |
 | 118 | Given a sorted list of integers, square the elements and give the output in sorted order. | [Day 118](../master/day_118.py) |
+| 120 | Implement the singleton pattern with a twist. First, instead of storing one instance, store two instances. | [Day 120](../master/day_120.py) |
