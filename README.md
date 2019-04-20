@@ -105,3 +105,4 @@
 | 120 | Implement the singleton pattern with a twist. First, instead of storing one instance, store two instances. | [Day 120](../master/day_120.py) |
 | 122 | You are given a 2-d matrix where each cell represents number of coins in that cell. | [Day 122](../master/day_122.py) |
 | 124 | You have n fair coins and you flip them all at the same time. | [Day 124](../master/day_124.py) |
+| 125 | Given the root of a binary search tree, and a target K, return two nodes in the tree whose sum equals K. | [Day 125](../master/day_125.py) |
