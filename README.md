@@ -109,3 +109,4 @@
 | 126 | Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. | [Day 126](../master/day_126.py) |
 master/day_125.py) |
 | 127 | Given two linked lists in this format, return their sum in the same linked list format. | [Day 127](../master/day_127.py) |
+| 128 | Write a function that prints out all the steps necessary to complete the Tower of Hanoi. | [Day 128](../master/day_128.py) |
