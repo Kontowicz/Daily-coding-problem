@@ -111,3 +111,4 @@ master/day_125.py) |
 | 127 | Given two linked lists in this format, return their sum in the same linked list format. | [Day 127](../master/day_127.py) |
 | 128 | Write a function that prints out all the steps necessary to complete the Tower of Hanoi. | [Day 128](../master/day_128.py) |
 | 129 | Given a real number n, find the square root of n. For example, given n = 9, return 3. | [Day 129](../master/day_129.py) |
+| 130 | Given an array of numbers representing the stock prices of a company in chronological order and an integer k, return the maximum profit you can make from k buys and sells. You must buy the stock before you can sell it, and you must sell the stock before you can buy it again. | [Day 130](../master/day_130.py) |
