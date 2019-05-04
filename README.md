@@ -118,3 +118,4 @@ master/day_125.py) |
 | 137 | Implement a bit array. | [Day 137](../master/day_137.py) |
 | 138 | Find the minimum number of coins required to make n cents. | [Day 138](../master/day_138.py) |
 | 139 | Given an iterator with methods next() and hasNext(), create a wrapper iterator, PeekableInterface, which also implements peek(). | [Day 139](../master/day_139.py) |
+| 140 | Given an array of integers in which two elements appear exactly once and all other elements appear exactly twice, find the two elements that appear only once. | [Day 140](../master/day_140.py) |
