@@ -120,3 +120,4 @@ master/day_125.py) |
 | 139 | Given an iterator with methods next() and hasNext(), create a wrapper iterator, PeekableInterface, which also implements peek(). | [Day 139](../master/day_139.py) |
 | 140 | Given an array of integers in which two elements appear exactly once and all other elements appear exactly twice, find the two elements that appear only once. | [Day 140](../master/day_140.py) |
 | 141 | Implement 3 stacks using a single list. | [Day 141](../master/day_141.py) |
+| 143 | Given a pivot x, and a list lst, partition the list into three parts. | [Day 143](../master/day_143.py) |
