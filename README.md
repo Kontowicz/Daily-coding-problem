@@ -122,3 +122,4 @@ master/day_125.py) |
 | 141 | Implement 3 stacks using a single list. | [Day 141](../master/day_141.py) |
 | 142 | You're given a string consisting solely of (, ), and *. * can represent either a (, ), or an empty string. Determine whether the parentheses are balanced. | [Day 142](../master/day_142.py) |
 | 143 | Given a pivot x, and a list lst, partition the list into three parts. | [Day 143](../master/day_143.py) |
+| 144 | Given an array of numbers and an index i, return the index of the nearest larger number of the number at index i, where distance is measured in array indices. | [Day 144](../master/day_144.py) |
