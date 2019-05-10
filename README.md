@@ -124,3 +124,4 @@ master/day_125.py) |
 | 143 | Given a pivot x, and a list lst, partition the list into three parts. | [Day 143](../master/day_143.py) |
 | 144 | Given an array of numbers and an index i, return the index of the nearest larger number of the number at index i, where distance is measured in array indices. | [Day 144](../master/day_144.py) |
 | 145 | Given the head of a singly linked list, swap every two nodes and return its head. | [Day 145](../master/day_145.py) |
+| 146 | Given a binary tree where all nodes are either 0 or 1, prune the tree so that subtrees containing all 0s are removed. | [Day 146](../master/day_146.py) |
