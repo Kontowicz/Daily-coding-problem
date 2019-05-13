@@ -127,3 +127,4 @@ master/day_125.py) |
 | 146 | Given a binary tree where all nodes are either 0 or 1, prune the tree so that subtrees containing all 0s are removed. | [Day 146](../master/day_146.py) |
 | 148 | Given a number of bits n, generate a possible gray code for it. | [Day 148](../master/day_148.py) |
 | 149 | Given a list of numbers L, implement a method sum(i, j) which returns the sum from the sublist L[i:j] (including i, excluding j). | [Day 149](../master/day_149.py) |
+| 150 | Given a list of points, a central point, and an integer k, find the nearest k points from the central point. | [Day 150](../master/day_150.py) |
