@@ -129,3 +129,4 @@ master/day_125.py) |
 | 149 | Given a list of numbers L, implement a method sum(i, j) which returns the sum from the sublist L[i:j] (including i, excluding j). | [Day 149](../master/day_149.py) |
 | 150 | Given a list of points, a central point, and an integer k, find the nearest k points from the central point. | [Day 150](../master/day_150.py) |
 | 151 | Given a 2-D matrix representing an image, a location of a pixel in the screen and a color C, replace the color of the given pixel and all adjacent same colored pixels with C. | [Day 151](../master/day_151.py) |
+| 152 | You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability. | [Day 152](../master/day_152.py) |
