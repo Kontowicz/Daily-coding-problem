@@ -112,7 +112,6 @@ master/day_125.py) |
 | 128 | Write a function that prints out all the steps necessary to complete the Tower of Hanoi. | [Day 128](../master/day_128.py) |
 | 129 | Given a real number n, find the square root of n. For example, given n = 9, return 3. | [Day 129](../master/day_129.py) |
 | 130 | Given an array of numbers representing the stock prices of a company in chronological order and an integer k, return the maximum profit you can make from k buys and sells. You must buy the stock before you can sell it, and you must sell the stock before you can buy it again. | [Day 130](../master/day_130.py) |
-
 | 134 | Use a more space-efficient data structure, SparseArray, that implements the same interface: | [Day 134](../master/day_134.py) |
 | 135 | Given a binary tree, find a minimum path sum from root to a leaf. | [Day 135](../master/day_135.py) |
 | 137 | Implement a bit array. | [Day 137](../master/day_137.py) |
