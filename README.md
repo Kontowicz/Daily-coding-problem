@@ -132,3 +132,4 @@ master/day_125.py) |
 | 152 | You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability. | [Day 152](../master/day_152.py) |
 | 153 | Find an efficient algorithm to find the smallest distance (measured in number of words) between any two given words in a string. | [Day 153](../master/day_153.py) |
 | 154 | Implement a stack API using only a heap. A stack implements the following methods. | [Day 154](../master/day_154.py) |
+| 155 | Given a list of elements, find the majority element, which appears more than half the time . | [Day 155](../master/day_155.py) |
