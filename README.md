@@ -107,7 +107,6 @@
 | 124 | You have n fair coins and you flip them all at the same time. | [Day 124](../master/day_124.py) |
 | 125 | Given the root of a binary search tree, and a target K, return two nodes in the tree whose sum equals K. | [Day 125](../master/day_125.py) |
 | 126 | Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. | [Day 126](../master/day_126.py) |
-master/day_125.py) |
 | 127 | Given two linked lists in this format, return their sum in the same linked list format. | [Day 127](../master/day_127.py) |
 | 128 | Write a function that prints out all the steps necessary to complete the Tower of Hanoi. | [Day 128](../master/day_128.py) |
 | 129 | Given a real number n, find the square root of n. For example, given n = 9, return 3. | [Day 129](../master/day_129.py) |
