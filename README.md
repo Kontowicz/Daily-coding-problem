@@ -131,3 +131,4 @@
 | 153 | Find an efficient algorithm to find the smallest distance (measured in number of words) between any two given words in a string. | [Day 153](../master/day_153.py) |
 | 154 | Implement a stack API using only a heap. A stack implements the following methods. | [Day 154](../master/day_154.py) |
 | 155 | Given a list of elements, find the majority element, which appears more than half the time . | [Day 155](../master/day_155.py) |
+| 156 | Given a positive integer n, find the smallest number of squared integers which sum to n. | [Day 156](../master/day_156.py) |
