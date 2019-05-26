@@ -134,3 +134,4 @@
 | 156 | Given a positive integer n, find the smallest number of squared integers which sum to n. | [Day 156](../master/day_156.py) |
 | 157 | Given a string, determine whether any permutation of it is a palindrome. | [Day 157](../master/day_157.py) |
 | 159 | Given a string, return the first recurring character in it, or null if there is no recurring character. | [Day 159](../master/day_159.py) |
+| 161 | Given a 32-bit integer, return the number with its bits reversed. | [Day 161](../master/day_161.py) |
