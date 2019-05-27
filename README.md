@@ -135,3 +135,4 @@
 | 157 | Given a string, determine whether any permutation of it is a palindrome. | [Day 157](../master/day_157.py) |
 | 159 | Given a string, return the first recurring character in it, or null if there is no recurring character. | [Day 159](../master/day_159.py) |
 | 161 | Given a 32-bit integer, return the number with its bits reversed. | [Day 161](../master/day_161.py) |
+| 163 | Given an arithmetic expression in Reverse Polish Notation, write a program to evaluate it. | [Day 163](../master/day_163.py) |
