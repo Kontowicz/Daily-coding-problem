@@ -136,3 +136,4 @@
 | 159 | Given a string, return the first recurring character in it, or null if there is no recurring character. | [Day 159](../master/day_159.py) |
 | 161 | Given a 32-bit integer, return the number with its bits reversed. | [Day 161](../master/day_161.py) |
 | 163 | Given an arithmetic expression in Reverse Polish Notation, write a program to evaluate it. | [Day 163](../master/day_163.py) |
+| 164 | You are given an array of length n + 1 whose elements belong to the set {1, 2, ..., n}. By the pigeonhole principle, there must be a duplicate.  | [Day 164](../master/day_164.py) |
