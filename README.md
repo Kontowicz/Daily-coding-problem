@@ -140,3 +140,4 @@
 | 165 | Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array. | [Day 165](../master/day_165.py) |
 | 166 | Implement a 2D iterator class. It will be initialized with an array of arrays, and should implement the following methods: | [Day 166](../master/day_166.py) |
 | 167 | Given a list of words, find all pairs of unique indices such that the concatenation of the two words is a palindrome. | [Day 167](../master/day_167.py) |
+| 168 | Given an N by N matrix, rotate it by 90 degrees clockwise. | [Day 168](../master/day_168.py) |
