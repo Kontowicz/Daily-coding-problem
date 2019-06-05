@@ -133,6 +133,7 @@
 | 155 | Given a list of elements, find the majority element, which appears more than half the time . | [Day 155](../master/day_155.py) |
 | 156 | Given a positive integer n, find the smallest number of squared integers which sum to n. | [Day 156](../master/day_156.py) |
 | 157 | Given a string, determine whether any permutation of it is a palindrome. | [Day 157](../master/day_157.py) |
+| 158 | You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner? | [Day 158](../master/day_158.py) |
 | 159 | Given a string, return the first recurring character in it, or null if there is no recurring character. | [Day 159](../master/day_159.py) |
 | 161 | Given a 32-bit integer, return the number with its bits reversed. | [Day 161](../master/day_161.py) |
 | 163 | Given an arithmetic expression in Reverse Polish Notation, write a program to evaluate it. | [Day 163](../master/day_163.py) |
@@ -141,4 +142,5 @@
 | 166 | Implement a 2D iterator class. It will be initialized with an array of arrays, and should implement the following methods: | [Day 166](../master/day_166.py) |
 | 167 | Given a list of words, find all pairs of unique indices such that the concatenation of the two words is a palindrome. | [Day 167](../master/day_167.py) |
 | 168 | Given an N by N matrix, rotate it by 90 degrees clockwise. | [Day 168](../master/day_168.py) |
-| 171 | Find the busiest period in the building, that is, the time with the most people in the building.  | [Day 171](../master/day_171.py) |
+| 171 | Find the busiest period in the building, that is, the time with the most people in the building. | [Day 171](../master/day_171.py) |
+| 172 | Given a string s and a list of words words, where each word is the same length, find all starting indices of substrings in s that is a concatenation of every word in words exactly once. | [Day 172](../master/day_172.py) |
