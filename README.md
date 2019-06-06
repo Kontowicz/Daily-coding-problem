@@ -144,3 +144,4 @@
 | 168 | Given an N by N matrix, rotate it by 90 degrees clockwise. | [Day 168](../master/day_168.py) |
 | 171 | Find the busiest period in the building, that is, the time with the most people in the building. | [Day 171](../master/day_171.py) |
 | 172 | Given a string s and a list of words words, where each word is the same length, find all starting indices of substrings in s that is a concatenation of every word in words exactly once. | [Day 172](../master/day_172.py) |
+| 173 | Write a function to flatten a nested dictionary. Namespace the keys with a period. | [Day 173](../master/day_173.py) |
