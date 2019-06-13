@@ -148,3 +148,5 @@
 | 176 | Determine whether there exists a one-to-one character mapping from one string s1 to another s2. | [Day 176](../master/day_176.py) |
 | 177 | Given a linked list and a positive integer k, rotate the list to the right by k places. | [Day 177](../master/day_177.py) |
 | 179 | Given the sequence of keys visited by a postorder traversal of a binary search tree, reconstruct the tree. | [Day 179](../master/day_179.py) |
+| 180 | Given a stack of N elements, interleave the first half of the stack with the second half reversed using only one other queue. This should be done in-place. Recall that you can only push or pop from a stack, and enqueue or dequeue from a queue. | [Day 180](../master/day_180.py) |
+| 181 | Given a string, split it into as few strings as possible such that each string is a palindrome. | [Day 181](../master/day_181.py) |
