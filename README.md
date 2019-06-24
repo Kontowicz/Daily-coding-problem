@@ -155,3 +155,4 @@
 | 189 | Given an array of elements, return the length of the longest subarray where all its elements are distinct. | [Day 189](../master/day_189.py) |
 | 191 | Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping. | [Day 191](../master/day_191.py) |
 | 192 | You are given an array of nonnegative integers. Let's say you start at the beginning of the array and are trying to advance to the end. You can advance at most, the number of steps that you're currently on. Determine whether you can get to the end of the array. | [Day 192](../master/day_192.py) |
+| 194 | Suppose you are given two lists of n points, one list p1, p2, ..., pn on the line y = 0 and the other list q1, q2, ..., qn on the line y = 1. Imagine a set of n line segments connecting each point pi to qi. Write an algorithm to determine how many pairs of the line segments intersect. | [Day 194](../master/day_194.py) |
