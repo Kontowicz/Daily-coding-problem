@@ -158,3 +158,4 @@
 | 194 | Suppose you are given two lists of n points, one list p1, p2, ..., pn on the line y = 0 and the other list q1, q2, ..., qn on the line y = 1. Imagine a set of n line segments connecting each point pi to qi. Write an algorithm to determine how many pairs of the line segments intersect. | [Day 194](../master/day_194.py) |
 | 197 | Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place. | [Day 197](../master/day_197.py) |
 | 198 | Given a set of distinct positive integers, find the largest subset such that every pair of elements in the subset (i, j) satisfies either i % j = 0 or j % i = 0. | [Day 198](../master/day_198.py) |
+| 202 | Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string. | [Day 202](../master/day_202.py) |
