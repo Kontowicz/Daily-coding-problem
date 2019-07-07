@@ -53,6 +53,7 @@
 | 52 | Implement an LRU (Least Recently Used) cache. | [Day 52](../master/day_052.py) |
 | 53 | Implement a queue using two stacks. | [Day 53](../master/day_053.py) |
 | 55 | Implement a URL shortener. | [Day 55](../master/day_055.py) |
+| 56 | Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors. | [Day 56](../master/day_056.py) |
 | 57 | Given a string s and an integer k, break up the string into multiple texts such that each text has a length of k or less. | [Day 57](../master/day_057.py) |
 | 61 | Implement integer exponentiation. That is, implement the pow(x, y) function, where x and y are integers and returns x^y. | [Day 61](../master/day_061.py) |
 | 62 | Given N and M, write a function to count the number of ways of starting at the top-left corner and getting to the bottom-right corner. | [Day 62](../master/day_062.py) |
