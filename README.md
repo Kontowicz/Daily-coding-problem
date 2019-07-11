@@ -168,3 +168,4 @@
 | 204 | Given a complete binary tree, count the number of nodes in faster than O(n) time. Recall that a complete binary tree has every level filled except the last, and the nodes in the last level are filled starting from the left. | [Day 204](../master/day_204.py) |
 | 206 | A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation. | [Day 206](../master/day_206.py) |
 | 210 | A Collatz sequence in mathematics can be defined as follows. | [Day 210](../master/day_210.py) |
+| 211 | Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. | [Day 211](../master/day_211.py) |
