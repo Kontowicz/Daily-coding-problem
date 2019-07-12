@@ -169,3 +169,4 @@
 | 206 | A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation. | [Day 206](../master/day_206.py) |
 | 210 | A Collatz sequence in mathematics can be defined as follows. | [Day 210](../master/day_210.py) |
 | 211 | Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. | [Day 211](../master/day_211.py) |
+| 212 | Given a column number, return its alphabetical column id. | [Day 212](../master/day_212.py) |
