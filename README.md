@@ -170,3 +170,4 @@
 | 210 | A Collatz sequence in mathematics can be defined as follows. | [Day 210](../master/day_210.py) |
 | 211 | Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. | [Day 211](../master/day_211.py) |
 | 212 | Given a column number, return its alphabetical column id. | [Day 212](../master/day_212.py) |
+| 214 | Given an integer n, return the length of the longest consecutive run of 1s in its binary representation. | [Day 214](../master/day_214.py) |
