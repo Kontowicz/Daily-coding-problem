@@ -108,6 +108,7 @@
 | 118 | Given a sorted list of integers, square the elements and give the output in sorted order. | [Day 118](../master/day_118.py) |
 | 120 | Implement the singleton pattern with a twist. First, instead of storing one instance, store two instances. | [Day 120](../master/day_120.py) |
 | 122 | You are given a 2-d matrix where each cell represents number of coins in that cell. | [Day 122](../master/day_122.py) |
+| 123 | Given a string, return whether it represents a number. Here are the different kinds of numbers: | [Day 123](../master/day_123.py) |
 | 124 | You have n fair coins and you flip them all at the same time. | [Day 124](../master/day_124.py) |
 | 125 | Given the root of a binary search tree, and a target K, return two nodes in the tree whose sum equals K. | [Day 125](../master/day_125.py) |
 | 126 | Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. | [Day 126](../master/day_126.py) |
