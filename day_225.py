@@ -1,4 +1,6 @@
-
+# There are N prisoners standing in a circle, waiting to be executed.
+# The executions are carried out starting with the kth person,
+# and removing every successive kth person going clockwise until there is no one left.
 
 def solution(n, k):
     last = None
@@ -12,7 +14,3 @@ def solution(n, k):
         prisoners = prisoners[:next] + prisoners[next+1:]
 
     return last
-
-assert solution(5, 2) == 3
-assert solution(3, 2) == 3
-assert solution(5, 3) == 4
