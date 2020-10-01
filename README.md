@@ -175,3 +175,4 @@
 | 216 | Convert Roman numer to decimal value. | [Day 216](../master/day_216.py) |
 | 217 | We say a number is sparse if there are no adjacent ones in its binary representation. | [Day 217](../master/day_217.py) |
 | 224 | Given a sorted array, find the smallest positive integer that is not the sum of a subset of the array. | [Day 224](../master/day_224.py) |
+| 225 | Implement integer exponentiation. That is, implement the pow(x, y) function, where x and y are integers and returns x^y. | [Day 225](../master/day_225.py) |

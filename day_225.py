@@ -1,16 +1,21 @@
-# There are N prisoners standing in a circle, waiting to be executed.
-# The executions are carried out starting with the kth person,
-# and removing every successive kth person going clockwise until there is no one left.
+def solution(x, n):
+    if n < 0:
+        x = 1 / x
+        n = -n
+    if n == 0:
+        return 1
 
-def solution(n, k):
-    last = None
-    next = 0
+    y = 1
 
-    prisoners = list(range(1, n + 1))
+    while n > 1:
+        if n % 2 == 0:
+            x = x * x
+            n = n / 2
+        else:
+            y = x * y
+            x = x * x
+            n = (n - 1) / 2
 
-    while prisoners:
-        next = (next + k - 1) % len(prisoners)
-        last = prisoners[next]
-        prisoners = prisoners[:next] + prisoners[next+1:]
+    return x * y
 
-    return last
+print(solution(2, 10))
